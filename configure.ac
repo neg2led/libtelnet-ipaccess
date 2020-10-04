@@ -18,3 +18,5 @@ fi
 
 AC_CONFIG_FILES([Makefile util/Makefile man/Makefile libtelnet.pc])
 AC_OUTPUT
+
+AC_CONFIG_MACRO_DIRS([m4])

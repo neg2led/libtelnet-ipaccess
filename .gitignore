@@ -21,3 +21,5 @@ telnet-client
 telnet-chatd
 libtelnet.pc
 INSTALL
+m4/*
+compile
